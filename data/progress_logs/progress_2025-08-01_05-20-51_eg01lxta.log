@@ -1,0 +1,22 @@
+[2025-08-01 13:20:51] 任务开始执行
+[2025-08-01 13:20:51] 开始处理第 1 条记录
+提示词内容: 你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（["[[{'集中度90[20250711]': 0.078, '...
+[2025-08-01 13:20:51] 第 1 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:20:52] 开始处理第 2 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（[""[[{'主力买入额[20250721]': 202593...
+[2025-08-01 13:20:52] 第 2 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:20:53] 开始处理第 3 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（['<br/>文档[1]<br/>君弘智投：智能优选策略<br/>切片#7:<b...
+[2025-08-01 13:20:53] 第 3 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:20:54] 开始处理第 4 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（['资讯：\n 标题 杭州两宗住宅用地约18.98亿元成交，余杭区地块溢价率29...
+[2025-08-01 13:20:54] 第 4 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:20:54] 任务执行完成，共处理4条记录

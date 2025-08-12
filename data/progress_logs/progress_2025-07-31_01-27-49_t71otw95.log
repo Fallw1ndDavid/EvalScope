@@ -1,0 +1,47 @@
+[2025-07-31 09:27:49] 任务开始执行
+[2025-07-31 09:27:49] 开始处理第 1 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（['资讯：\n 标题 “车路云一体化”持续推进中：重庆制定应用试点方案、7月十余...
+[2025-07-31 09:27:49] 第 1 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:50] 开始处理第 2 条记录
+提示词内容: 你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（["[[{'集中度90[20250711]': 0.129, '...
+[2025-07-31 09:27:50] 第 2 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:51] 开始处理第 3 条记录
+提示词内容: 你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（["[[{'集中度90[20250711]': 0.128, '...
+[2025-07-31 09:27:51] 第 3 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:52] 开始处理第 4 条记录
+提示词内容: 你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（["[[{'集中度90[20250711]': 0.145, '...
+[2025-07-31 09:27:52] 第 4 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:53] 开始处理第 5 条记录
+提示词内容: 你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（["[[{'集中度90[20250711]': 0.078, '...
+[2025-07-31 09:27:54] 第 5 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:55] 开始处理第 6 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（[""[[{'主力买入额[20250721]': 202593...
+[2025-07-31 09:27:55] 第 6 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:56] 开始处理第 7 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（['<br/>文档[1]<br/>君弘智投：智能优选策略<br/>切片#7:<b...
+[2025-07-31 09:27:56] 第 7 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:57] 开始处理第 8 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（['资讯：\n 标题 杭州两宗住宅用地约18.98亿元成交，余杭区地块溢价率29...
+[2025-07-31 09:27:57] 第 8 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:58] 开始处理第 9 条记录
+提示词内容: "你身为国泰海通证券公司的资深业务专家，现在需要针对用户的问题展开深度分析。在解答过程中，你需要充分利用提供的参考文档（[]）、参考数据（[""[[{'营业总收入同比增长率[20231231]': 2...
+[2025-07-31 09:27:58] 第 9 条记录处理失败: Server error '502 Bad Gateway' for url 'http://175.102.135.20/h20_qwen32/v1/chat/completions'
+For more information check: https://httpstatuses.com/502
+
+[2025-07-31 09:27:58] 任务执行完成，共处理9条记录

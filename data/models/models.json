@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "GPT-4",
+    "description": "OpenAI的GPT-4模型，适用于复杂推理和创意任务",
+    "url": "https://api.openai.com/v1/chat/completions",
+    "apiKey": "sk-实际有效的API密钥",
+    "customHeader": "{\"Authorization\": \"Bearer $apiKey\"}",
+    "otherParams": "{\"temperature\": 0.7, \"top_p\": 1}"
+  },
+  {
+    "id": 2,
+    "name": "Claude 3 Opus",
+    "description": "Anthropic的Claude 3 Opus模型，擅长长文本处理和复杂任务",
+    "url": "https://api.anthropic.com/v1/messages",
+    "apiKey": "sk-ant-api03-xxxxxxxxxxxxxxxxxxxxxxxx",
+    "customHeader": "{\"x-api-key\": \"$apiKey\", \"anthropic-version\": \"2023-06-01\"}",
+    "otherParams": "{\"temperature\": 0.7}"
+  },
+  {
+    "id": 3,
+    "name": "本地LLaMA模型",
+    "description": "本地部署的LLaMA模型，适用于离线环境",
+    "url": "http://localhost:8000/v1/chat/completions",
+    "apiKey": "",
+    "customHeader": "{}",
+    "otherParams": "{\"temperature\": 0.7}"
+  },
+  {
+    "id": 4,
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": "DeepSeek-R1",
+    "customHeader": "{\"Authorization\": \"sk-rjacpshuajlbslogyccxedlftfcjjkptfiejhdrwkjrvyxea\"}",
+    "url": "https://api.siliconflow.cn/v1/chat/completions",
+    "otherParams": "{\"ignore_eos\": true}",
+    "apiKey": "sk-rjacpshuajlbslogyccxedlftfcjjkptfiejhdrwkjrvyxea"
+  }
+]

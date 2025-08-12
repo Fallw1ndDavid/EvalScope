@@ -1,0 +1,22 @@
+[2025-08-01 13:22:49] 任务开始执行
+[2025-08-01 13:22:49] 开始处理第 1 条记录
+提示词内容: {input}...
+[2025-08-01 13:22:49] 第 1 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:22:50] 开始处理第 2 条记录
+提示词内容: {input}...
+[2025-08-01 13:22:50] 第 2 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:22:51] 开始处理第 3 条记录
+提示词内容: {input}...
+[2025-08-01 13:22:51] 第 3 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:22:52] 开始处理第 4 条记录
+提示词内容: {input}...
+[2025-08-01 13:22:52] 第 4 条记录处理失败: Client error '401 Unauthorized' for url 'https://api.siliconflow.cn/v1/chat/completions'
+For more information check: https://httpstatuses.com/401
+
+[2025-08-01 13:22:52] 任务执行完成，共处理4条记录
